@@ -13,35 +13,31 @@
 
 	<link rel="pingback" href="https://www.agenciamural.org.br/xmlrpc.php">
 
-	<title>Livro ‘Kauira dorme’ entrelaça mundo mítico e a periferia de São Paulo - Agência Mural</title>
+	<title>Há vagas na &#039;Turma da Mônica&#039;. Mas não para candidatos das periferias</title>
 
 <!-- This site is optimized with the Yoast SEO plugin v7.6.1 - https://yoast.com/wordpress/plugins/seo/ -->
-<meta name="description" content="Publicação de quadrinho independente foi possível graças a um financiamento coletivo na internet; moradores retrataram vivência na zona sul de SP"/>
-<link rel="canonical" href="https://www.agenciamural.org.br/livro-kauira-dorme-entrelaca-mundo-mitico-e-a-periferia-de-sao-paulo/" />
+<meta name="description" content="“ATENÇÃO: SÓ PROSSIGA SE FOR FÁCIL ACESSO PARA VOCÊ”, anuncia, em caixa alta, questionário de processo seletivo na Mauricio de Sousa Produções"/>
+<link rel="canonical" href="https://www.agenciamural.org.br/ha-vagas-na-turma-da-monica-mas-nao-para-candidatos-das-periferias-de-sp/" />
 <meta property="og:locale" content="pt_BR" />
 <meta property="og:type" content="article" />
-<meta property="og:title" content="Livro ‘Kauira dorme’ entrelaça mundo mítico e a periferia de São Paulo - Agência Mural" />
-<meta property="og:description" content="Publicação de quadrinho independente foi possível graças a um financiamento coletivo na internet; moradores retrataram vivência na zona sul de SP" />
-<meta property="og:url" content="https://www.agenciamural.org.br/livro-kauira-dorme-entrelaca-mundo-mitico-e-a-periferia-de-sao-paulo/" />
+<meta property="og:title" content="Há vagas na &#039;Turma da Mônica&#039;. Mas não para candidatos das periferias" />
+<meta property="og:description" content="“ATENÇÃO: SÓ PROSSIGA SE FOR FÁCIL ACESSO PARA VOCÊ”, anuncia, em caixa alta, questionário de processo seletivo na Mauricio de Sousa Produções" />
+<meta property="og:url" content="https://www.agenciamural.org.br/ha-vagas-na-turma-da-monica-mas-nao-para-candidatos-das-periferias-de-sp/" />
 <meta property="og:site_name" content="Agência Mural" />
 <meta property="article:publisher" content="https://www.facebook.com/agenciamural/" />
-<meta property="article:tag" content="Cidade Dutra" />
-<meta property="article:tag" content="Grajaú" />
-<meta property="article:tag" content="Subprefeitura Capela do Socorro" />
-<meta property="article:tag" content="zona sul" />
-<meta property="article:section" content="Região SP" />
-<meta property="article:published_time" content="2019-04-29T16:01:32-03:00" />
-<meta property="article:modified_time" content="2019-04-30T09:54:49-03:00" />
-<meta property="og:updated_time" content="2019-04-30T09:54:49-03:00" />
-<meta property="og:image" content="https://www.agenciamural.org.br/wp-content/uploads/2019/04/kauira_dorme-4.jpg" />
-<meta property="og:image:secure_url" content="https://www.agenciamural.org.br/wp-content/uploads/2019/04/kauira_dorme-4.jpg" />
+<meta property="article:section" content="Crônica" />
+<meta property="article:published_time" content="2019-04-22T11:18:03-03:00" />
+<meta property="article:modified_time" content="2019-04-24T16:54:06-03:00" />
+<meta property="og:updated_time" content="2019-04-24T16:54:06-03:00" />
+<meta property="og:image" content="https://www.agenciamural.org.br/wp-content/uploads/2019/04/turma-da-monica-milena.jpg" />
+<meta property="og:image:secure_url" content="https://www.agenciamural.org.br/wp-content/uploads/2019/04/turma-da-monica-milena.jpg" />
 <meta property="og:image:width" content="1200" />
-<meta property="og:image:height" content="675" />
+<meta property="og:image:height" content="773" />
 <meta name="twitter:card" content="summary_large_image" />
-<meta name="twitter:description" content="Publicação de quadrinho independente foi possível graças a um financiamento coletivo na internet; moradores retrataram vivência na zona sul de SP" />
-<meta name="twitter:title" content="Livro ‘Kauira dorme’ entrelaça mundo mítico e a periferia de São Paulo - Agência Mural" />
+<meta name="twitter:description" content="“ATENÇÃO: SÓ PROSSIGA SE FOR FÁCIL ACESSO PARA VOCÊ”, anuncia, em caixa alta, questionário de processo seletivo na Mauricio de Sousa Produções" />
+<meta name="twitter:title" content="Há vagas na &#039;Turma da Mônica&#039;. Mas não para candidatos das periferias" />
 <meta name="twitter:site" content="@agmural" />
-<meta name="twitter:image" content="https://www.agenciamural.org.br/wp-content/uploads/2019/04/kauira_dorme-4.jpg" />
+<meta name="twitter:image" content="https://www.agenciamural.org.br/wp-content/uploads/2019/04/turma-da-monica-milena.jpg" />
 <meta name="twitter:creator" content="@agmural" />
 <script type='application/ld+json'>{"@context":"https:\/\/schema.org","@type":"Organization","url":"https:\/\/www.agenciamural.org.br\/","sameAs":["https:\/\/www.facebook.com\/agenciamural\/","https:\/\/www.instagram.com\/agenciamural\/","https:\/\/www.linkedin.com\/company\/ag\u00eancia-mural-de-jornalismo-das-periferias\/","https:\/\/www.youtube.com\/channel\/UC7hgBiaZsGMWit-1iF488lQ","https:\/\/twitter.com\/agmural"],"@id":"https:\/\/www.agenciamural.org.br\/#organization","name":"Ag\u00eancia Mural","logo":"https:\/\/www.agenciamural.org.br\/wp-content\/uploads\/2018\/06\/MURAL-HORIZONTAL-PRETO-LARANJA-SLOGAN-e1528730722714.png"}</script>
 <!-- / Yoast SEO plugin. -->
@@ -51,7 +47,7 @@
 <link rel='dns-prefetch' href='//s.w.org' />
 <link rel="alternate" type="application/rss+xml" title="Feed para Agência Mural &raquo;" href="https://www.agenciamural.org.br/feed/" />
 <link rel="alternate" type="application/rss+xml" title="Feed de comentários para Agência Mural &raquo;" href="https://www.agenciamural.org.br/comments/feed/" />
-<link rel="alternate" type="application/rss+xml" title="Feed de comentários para Agência Mural &raquo; Livro ‘Kauira dorme’ entrelaça mundo mítico e a periferia de São Paulo" href="https://www.agenciamural.org.br/livro-kauira-dorme-entrelaca-mundo-mitico-e-a-periferia-de-sao-paulo/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Feed de comentários para Agência Mural &raquo; Há vagas na ‘Turma da Mônica’. Mas não para candidatos das periferias de SP" href="https://www.agenciamural.org.br/ha-vagas-na-turma-da-monica-mas-nao-para-candidatos-das-periferias-de-sp/feed/" />
 <!-- This site uses the Google Analytics by MonsterInsights plugin v7.0.6 - Using Analytics tracking - https://www.monsterinsights.com/ -->
 <!-- Note: MonsterInsights does not track you as a logged in site administrator to prevent site owners from accidentally skewing their own Google Analytics data.
 If you are testing Google Analytics code, please do so either logged out or in the private browsing/incognito mode of your web browser. -->
@@ -158,7 +154,7 @@ img.emoji {
 <link rel='stylesheet' id='yoast-seo-adminbar-css'  href='https://www.agenciamural.org.br/wp-content/plugins/wordpress-seo/css/dist/adminbar-761.min.css?ver=7.6.1' type='text/css' media='all' />
 <link rel='stylesheet' id='velux-css'  href='https://www.agenciamural.org.br/wp-content/themes/velux/style.css?ver=1.1.0' type='text/css' media='all' />
 <style id='velux-inline-css' type='text/css'>
-.site-header{background-image:url(https://www.agenciamural.org.br/wp-content/uploads/2019/04/kauira_dorme-4.jpg);}
+.site-header{background-image:url(https://www.agenciamural.org.br/wp-content/uploads/2019/04/turma-da-monica-milena.jpg);}
 .site-title a,.site-title a:visited{color:#blank;}.site-title a:hover,.site-title a:visited:hover{color:rgba(, 0.8);}
 .site-description{color:#ffffff;}
 .hero,.hero .widget h1,.hero .widget h2,.hero .widget h3,.hero .widget h4,.hero .widget h5,.hero .widget h6,.hero .widget p,.hero .widget blockquote,.hero .widget cite,.hero .widget table,.hero .widget ul,.hero .widget ol,.hero .widget li,.hero .widget dd,.hero .widget dt,.hero .widget address,.hero .widget code,.hero .widget pre,.hero .widget .widget-title,.hero .page-header h1{color:#ffffff;}
@@ -197,41 +193,45 @@ blockquote,.entry-meta,.entry-footer,.comment-list li .comment-meta .says,.comme
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.agenciamural.org.br/xmlrpc.php?rsd" />
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.agenciamural.org.br/wp-includes/wlwmanifest.xml" /> 
 <meta name="generator" content="WordPress 4.9.6" />
-<link rel='shortlink' href='https://www.agenciamural.org.br/?p=7473' />
-<link rel="alternate" type="application/json+oembed" href="https://www.agenciamural.org.br/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.agenciamural.org.br%2Flivro-kauira-dorme-entrelaca-mundo-mitico-e-a-periferia-de-sao-paulo%2F" />
-<link rel="alternate" type="text/xml+oembed" href="https://www.agenciamural.org.br/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.agenciamural.org.br%2Flivro-kauira-dorme-entrelaca-mundo-mitico-e-a-periferia-de-sao-paulo%2F&#038;format=xml" />
+<link rel='shortlink' href='https://www.agenciamural.org.br/?p=7405' />
+<link rel="alternate" type="application/json+oembed" href="https://www.agenciamural.org.br/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.agenciamural.org.br%2Fha-vagas-na-turma-da-monica-mas-nao-para-candidatos-das-periferias-de-sp%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.agenciamural.org.br/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.agenciamural.org.br%2Fha-vagas-na-turma-da-monica-mas-nao-para-candidatos-das-periferias-de-sp%2F&#038;format=xml" />
 			<meta property="fb:pages" content="1489662441328528" />
-							<meta property="ia:markup_url" content="https://www.agenciamural.org.br/livro-kauira-dorme-entrelaca-mundo-mitico-e-a-periferia-de-sao-paulo/?ia_markup=1" />
+							<meta property="ia:markup_url" content="https://www.agenciamural.org.br/ha-vagas-na-turma-da-monica-mas-nao-para-candidatos-das-periferias-de-sp/?ia_markup=1" />
 				    <script type="application/ld+json">
         {
             "@context": "http://schema.org",
                         
             
                                 "@type":"ReportageNewsArticle",
-                    "url":"https://www.agenciamural.org.br/livro-kauira-dorme-entrelaca-mundo-mitico-e-a-periferia-de-sao-paulo/",
-                    "headline":"Livro ‘Kauira dorme’ entrelaça mundo mítico e a periferia de São Paulo",
-                    "description":"Publicação de quadrinho independente foi possível graças a um financiamento coletivo na internet",
-                    "image":["https://www.agenciamural.org.br/wp-content/uploads/2019/04/kauira_dorme-4.jpg"],
-                    "datePublished":"2019-04-29 16:01:32",
-                    "dateModified":"2019-04-30 09:54:49",
+                    "url":"https://www.agenciamural.org.br/ha-vagas-na-turma-da-monica-mas-nao-para-candidatos-das-periferias-de-sp/",
+                    "headline":"Há vagas na ‘Turma da Mônica’. Mas não para candidatos das periferias de SP",
+                    "description":"“ATENÇÃO: SÓ PROSSIGA SE FOR FÁCIL ACESSO PARA VOCÊ”, anuncia, em caixa alta, questionário de processo seletivo na Mauricio de Sousa Produções",
+                    "image":["https://www.agenciamural.org.br/wp-content/uploads/2019/04/turma-da-monica-milena.jpg"],
+                    "datePublished":"2019-04-22 11:18:03",
+                    "dateModified":"2019-04-24 16:54:06",
                     "dateline": "Brazil",
                     "author":[
                         	                                {
                                         "@type":"Person",
-                                        "name":"Rômulo Cabrera",
-                                        "sameAs": "https://www.agenciamural.org.br/author/romulo/",
-                                        "image"   : "https://www.agenciamural.org.br/wp-content/uploads/2018/07/RomuloCabrera-150x150.jpg",
+                                        "name":"Vagner de Alencar",
+                                        "sameAs": "https://www.agenciamural.org.br/author/vagneralencar/",
+                                        "image"   : "https://www.agenciamural.org.br/wp-content/uploads/2018/07/VagnerdeAlencar-150x150.jpg",
                                         "jobTitle"	: "Columnist",
                                         "workLocation" : {
                                             "@type": "Place",
-                                            "name" : "Suzano BR"
+                                            "name" : "Paraisópolis, São Paulo BR"
                                         },
+                                        "knowsAbout": ["Local News", {
+                                            "@type": "Place",
+                                            "name": "São Paulo, SP, BR"
+                                        }],
                                         "contactPoint" : {
                                             "@type" : "ContactPoint",
                                             "contactType"  : "Journalist",
-                                            "email" : "romulocabrera@agenciamural.org.br",
-                                            "telephone" : "+5511992654065",
-                                            "url" : "https://www.agenciamural.org.br/author/romulo/"
+                                            "email" : "vagner@agenciamural.org.br",
+                                            "telephone" : "+5511987440735",
+                                            "url" : "https://www.agenciamural.org.br/author/vagneralencar/"
                                         }
                                     }
                                 
@@ -239,7 +239,7 @@ blockquote,.entry-meta,.entry-footer,.comment-list li .comment-meta .says,.comme
             
                 "mainEntityOfPage":{
                     "@type":"WebPage",
-                    "@id":"https://www.agenciamural.org.br/livro-kauira-dorme-entrelaca-mundo-mitico-e-a-periferia-de-sao-paulo/"
+                    "@id":"https://www.agenciamural.org.br/ha-vagas-na-turma-da-monica-mas-nao-para-candidatos-das-periferias-de-sp/"
                 },
 
                 "publisher": {
@@ -282,7 +282,7 @@ blockquote,.entry-meta,.entry-footer,.comment-list li .comment-meta .says,.comme
     </script>
 <style type='text/css'>
 .site-title,.site-description{position:absolute;clip:rect(1px, 1px, 1px, 1px);}
-</style><link rel="amphtml" href="https://www.agenciamural.org.br/livro-kauira-dorme-entrelaca-mundo-mitico-e-a-periferia-de-sao-paulo/amp/"><style type="text/css" media="print">#wpadminbar { display:none; }</style>
+</style><link rel="amphtml" href="https://www.agenciamural.org.br/ha-vagas-na-turma-da-monica-mas-nao-para-candidatos-das-periferias-de-sp/amp/"><style type="text/css" media="print">#wpadminbar { display:none; }</style>
 <style type="text/css" media="screen">
 	html { margin-top: 32px !important; }
 	* html body { margin-top: 32px !important; }
@@ -298,7 +298,7 @@ blockquote,.entry-meta,.entry-footer,.comment-list li .comment-meta .says,.comme
 
 </head>
 
-<body class="post-template-default single single-post postid-7473 single-format-standard logged-in admin-bar no-customize-support wp-custom-logo group-blog custom-header-image layout-one-column-wide">
+<body class="post-template-default single single-post postid-7405 single-format-standard logged-in admin-bar no-customize-support wp-custom-logo group-blog custom-header-image layout-one-column-wide">
 
 	
 	<div id="page" class="hfeed site">
@@ -337,10 +337,10 @@ blockquote,.entry-meta,.entry-footer,.comment-list li .comment-meta .says,.comme
 	<li id="menu-item-665" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-665"><a href="https://www.agenciamural.org.br/category/regiao/zona-leste/">Zona Leste</a></li>
 	<li id="menu-item-666" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-666"><a href="https://www.agenciamural.org.br/category/regiao/zona-norte/">Zona Norte</a></li>
 	<li id="menu-item-668" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-668"><a href="https://www.agenciamural.org.br/category/regiao/zona-oeste/">Zona Oeste</a></li>
-	<li id="menu-item-667" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-667"><a href="https://www.agenciamural.org.br/category/regiao/zona-sul/">Zona Sul</a></li>
+	<li id="menu-item-667" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-667"><a href="https://www.agenciamural.org.br/category/regiao/zona-sul/">Zona Sul</a></li>
 	<li id="menu-item-669" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-669"><a href="https://www.agenciamural.org.br/category/regiao/grande-sp/">Grande SP</a></li>
-	<li id="menu-item-4033" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4033"><a href="https://www.agenciamural.org.br/category/cronica/">Crônica</a></li>
-	<li id="menu-item-3846" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3846"><a href="https://www.agenciamural.org.br/category/opiniao/">Opinião</a></li>
+	<li id="menu-item-4033" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-4033"><a href="https://www.agenciamural.org.br/category/cronica/">Crônica</a></li>
+	<li id="menu-item-3846" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-3846"><a href="https://www.agenciamural.org.br/category/opiniao/">Opinião</a></li>
 	<li id="menu-item-3368" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3368"><a href="https://www.agenciamural.org.br/category/videos/">Vídeos</a></li>
 </ul>
 </li>
@@ -349,7 +349,7 @@ blockquote,.entry-meta,.entry-footer,.comment-list li .comment-meta .says,.comme
 <ul class="sub-menu">
 	<li id="menu-item-369" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-369"><a href="https://www.agenciamural.org.br/sobre-nos/">História</a></li>
 	<li id="menu-item-339" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-339"><a href="https://www.agenciamural.org.br/about/">About Us</a></li>
-	<li id="menu-item-338" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-338"><a href="https://www.agenciamural.org.br/equipe/">Equipe</a></li>
+	<li id="menu-item-338" class="menu-item menu-item-type-post_type menu-item-object-page current-post-parent menu-item-338"><a href="https://www.agenciamural.org.br/equipe/">Equipe</a></li>
 	<li id="menu-item-367" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-367"><a href="https://www.agenciamural.org.br/mentores/">Mentores</a></li>
 	<li id="menu-item-1164" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1164"><a href="https://www.agenciamural.org.br/principios/">Princípios</a></li>
 	<li id="menu-item-2085" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2085"><a href="https://www.agenciamural.org.br/participe/">Participe</a></li>
@@ -390,7 +390,11 @@ blockquote,.entry-meta,.entry-footer,.comment-list li .comment-meta .says,.comme
 
 		
             <div class="post-list-categoria">
-                <ul class="post-categories"><li><a href="https://www.agenciamural.org.br/category/assunto/arteecultura/">Arte e Cultura</a></li><li><a href="https://www.agenciamural.org.br/category/regiao/">Região SP</a></li><li><a href="https://www.agenciamural.org.br/category/regiao/zona-sul/">Zona Sul</a></li></ul>            </div>
+                <ul class="post-categories"><li class="have-text"><div class="cat-descricao">
+                    Texto sobre uma situação vivida pelo autor, com liberdade de narrativa.
+                </div><a href="https://www.agenciamural.org.br/category/cronica/">Crônica</a></li><li class="have-text"><div class="cat-descricao">
+                    Texto sobre algum tema específico em que há um posicionamento do autor com base em dados e na própria vivência do muralista.
+                </div><a href="https://www.agenciamural.org.br/category/opiniao/">Opinião</a></li></ul>            </div>
 		
 	</header><!-- .entry-header -->
 
@@ -407,7 +411,7 @@ blockquote,.entry-meta,.entry-footer,.comment-list li .comment-meta .says,.comme
 
 	
 		
-<article id="post-7473" class="post-7473 post type-post status-publish format-standard has-post-thumbnail hentry category-arteecultura category-regiao category-zona-sul tag-cidade-dutra tag-grajau tag-subprefeitura-capela-do-socorro tag-zona-sul">
+<article id="post-7405" class="post-7405 post type-post status-publish format-standard has-post-thumbnail hentry category-cronica category-opiniao">
 
 	
 	
@@ -420,27 +424,27 @@ blockquote,.entry-meta,.entry-footer,.comment-list li .comment-meta .says,.comme
 
 			
 			
-				<h1 class="entry-title">Livro ‘Kauira dorme’ entrelaça mundo mítico e a periferia de São Paulo</h1>
+				<h1 class="entry-title">Há vagas na ‘Turma da Mônica’. Mas não para candidatos das periferias de SP</h1>
 
 			
 			
 <div class="entry-meta">
 
 	
-		<span class="posted-date">29/04/2019 16:01</span> | Atualizado: 30/04/2019 9:54
+		<span class="posted-date">22/04/2019 11:18</span> | Atualizado: 24/04/2019 16:54
 	
-                <span class="posted-author"><a href="https://www.agenciamural.org.br/author/romulo/" title="Posts de Rômulo Cabrera" rel="author">Rômulo Cabrera</a></span>
+                <span class="posted-author"><a href="https://www.agenciamural.org.br/author/vagneralencar/" title="Posts de Vagner de Alencar" rel="author">Vagner de Alencar</a></span>
         
     
 	
 		<span class="comments-number">
 
-			<a href="https://www.agenciamural.org.br/livro-kauira-dorme-entrelaca-mundo-mitico-e-a-periferia-de-sao-paulo/#respond" class="comments-link" ><span class="dsq-postid" data-dsqidentifier="7473 https://www.agenciamural.org.br/?p=7473">Deixe um comentário</span></a>
+			<a href="https://www.agenciamural.org.br/ha-vagas-na-turma-da-monica-mas-nao-para-candidatos-das-periferias-de-sp/#respond" class="comments-link" ><span class="dsq-postid" data-dsqidentifier="7405 https://www.agenciamural.org.br/?p=7405">Deixe um comentário</span></a>
 		</span>
 
 	
                 <br>
-            <span><a href="https://www.agenciamural.org.br/reportar-erro/?url=https://www.agenciamural.org.br/livro-kauira-dorme-entrelaca-mundo-mitico-e-a-periferia-de-sao-paulo/">Reportar erro</a></span>
+            <span><a href="https://www.agenciamural.org.br/reportar-erro/?url=https://www.agenciamural.org.br/ha-vagas-na-turma-da-monica-mas-nao-para-candidatos-das-periferias-de-sp/">Reportar erro</a></span>
     
 </div><!-- .entry-meta -->
 
@@ -454,15 +458,8 @@ blockquote,.entry-meta,.entry-footer,.comment-list li .comment-meta .says,.comme
 	
 		
 <div class="entry-content">
-	            <i>Publicação de quadrinho independente foi possível graças a um financiamento coletivo na internet</i><br>
-
-            <style>
-                .at-above-post.addthis_tool {
-                    margin-top: 15px;
-                }
-            </style>
-		<div class="at-above-post addthis_tool" data-url="https://www.agenciamural.org.br/livro-kauira-dorme-entrelaca-mundo-mitico-e-a-periferia-de-sao-paulo/"></div><p><span style="font-weight: 400;">Foi nos versos de guardanapos de papel que a ideia de “Kauira Dorme” nasceu. Roteirizado e ilustrado por <a href="https://www.instagram.com/diegodta/">Diego Torres</a> e <a href="https://www.instagram.com/lukeraandrade/">Lucas Andrade</a>, moradores do Jardim Marilda, no Grajaú, e Jardim Iporanga, em Cidade Dutra, ambos da zona sul de São Paulo, eles lançaram recentemente o livro que é “uma homenagem a quem, na periferia, consegue ter a ousadia de sonhar”.</span></p>
-<p><span style="font-weight: 400;">O quadrinho busca refletir sobre o processo de descoberta da vocação nas periferias, por meio da história de Kauira, uma garota que busca respostas sobre o sentido da própria existência. Essa jornada de autoconhecimento acaba por levá-la a viajar entre dois mundos: a mítica Itapera, a morada dos deuses, e a periferia de São Paulo.</span></p><div class='mural-box-news'><p>Receba nossa newsletter!</p>   <form id="ema_signup_form" target="_blank" action="https://madmimi.com/signups/subscribe/2e777d01ddb34b13a2300f36ae862af6" accept-charset="UTF-8" method="post">
+	<div class="at-above-post addthis_tool" data-url="https://www.agenciamural.org.br/ha-vagas-na-turma-da-monica-mas-nao-para-candidatos-das-periferias-de-sp/"></div><p>“Eu iria”, escreveu em sua página do Facebook, um ex-professor de Jornalismo, sobre uma vaga de auxiliar de comunicação na MSP.</p>
+<p>Precisei abrir o link, um questionário de pré-seleção, feito no Google Planilhas, para identificar o nome da empresa — apesar de os personagens da Turma da Mônica, no cabeçalho, já insinuarem ser “Maurício de Sousa Produções”.</p><div class='mural-box-news'><p>Receba nossa newsletter!</p>   <form id="ema_signup_form" target="_blank" action="https://madmimi.com/signups/subscribe/2e777d01ddb34b13a2300f36ae862af6" accept-charset="UTF-8" method="post">
        <input name="utf8" type="hidden" value="✓"/>
        <div class="mimi_field required box-email">
           <input id="signup_email" name="signup[email]" type="text" data-required-field="Este campo é obrigatório" placeholder="voce@exemplo.com"/>
@@ -813,69 +810,78 @@ blockquote,.entry-meta,.entry-footer,.comment-list li .comment-meta .says,.comme
 })(this);
 </script>
 
-<p><span style="font-weight: 400;">Os amigos, que nasceram no mesmo dia, em março de 1991, se conheceram apenas no ensino médio na escola estadual José Vieira de Moraes. A fachada do colégio aparece na HQ. “Essa foi uma preocupação que a gente teve, ou seja: colocar elementos do nosso dia a dia pra trazer essa textura de realidade pra dentro do quadrinho”, explica. </span></p>
-<p><span style="font-weight: 400;">Eles citam a rotina das pessoas na periferia baseado no que viveram na região, como acordar às 5h30 para ir trabalhar, caminhar por vielas e pirambeiras, o transporte público lotado, a escola sucateada e professores no limite e o cansaço de toda essa jornada diária.</span></p>
-<p><span style="font-weight: 400;">As primeiras 400 cópias de “Kauira dorme” foram possíveis graças a um financiamento coletivo realizado por meio da plataforma Catarse, na internet. Ao todo, o quadrinho recebeu a ajuda de 224 apoiadores. O livro foi lançado durante a primeira edição do PerifaCon, evento realizado em março passado na Fábrica de Cultura do Capão Redondo, também na zona sul.</span></p>
-<p><span style="font-weight: 400;">A </span><b>Agência Mural</b><span style="font-weight: 400;"> conversou com os autores sobre a ideia de juntar a mitologia indígena com a realidade das periferias, o cenário dos quadrinhos nas quebradas de São Paulo, o hip hop e a vocação. “A gente quis contar a nossa história na quebrada, em certo sentido, sobre esse processo de descoberta da vocação num lugar que às vezes não quer te dizer qual é”, afirma Diego.</span></p>
-<p>Lucas é biólogo atua em um podcast de divulgação científica, o Alô Ciência. É também ilustrador freelance. Já Diego é formado em Rádio e TV e trabalha com comunicação. Questionados se encontraram a vocação como Kaiura, os quadrinhos parecem ter despertado esse sonho. &#8220;É<span style="font-weight: 400;"> como se um bichinho tivesse mordido a gente&#8221;.</span></p>
-<figure id="attachment_7475" style="width: 1200px" class="wp-caption aligncenter"><img class="size-full wp-image-7475" src="https://www.agenciamural.org.br/wp-content/uploads/2019/04/grajau-romulo_cabrera-quadrinho_kauira_quadrinho.jpg" alt="" width="1200" height="700" srcset="https://www.agenciamural.org.br/wp-content/uploads/2019/04/grajau-romulo_cabrera-quadrinho_kauira_quadrinho.jpg 1200w, https://www.agenciamural.org.br/wp-content/uploads/2019/04/grajau-romulo_cabrera-quadrinho_kauira_quadrinho-300x175.jpg 300w, https://www.agenciamural.org.br/wp-content/uploads/2019/04/grajau-romulo_cabrera-quadrinho_kauira_quadrinho-768x448.jpg 768w, https://www.agenciamural.org.br/wp-content/uploads/2019/04/grajau-romulo_cabrera-quadrinho_kauira_quadrinho-1024x597.jpg 1024w" sizes="(max-width: 1200px) 100vw, 1200px" /><figcaption class="wp-caption-text">Diego e Lucas se conheceram na escola (Rômulo Cabrera/Agência Mural)</figcaption></figure>
-<p><b>Por que uma protagonista indígena?</b><br />
-<span style="font-weight: 400;">Nós temos algumas respostas pra isso, já que é uma pergunta recorrente, mas a melhor delas é: e por que não? Por que não uma protagonista indígena? De fato, a gente quis trazer um elemento interessante, e ao mesmo tempo muito nosso, mas sem nenhum tipo de compromisso acadêmico, restrito a algumas pessoas. Acabamos usando a imagem de uma indígena por ser algo comum [aos brasileiros].</span></p>
-<p><b>Como surge a ideia de juntar dois universos tão diferentes: Itapera, a morada dos deuses, e a periferia?</b><br />
-<span style="font-weight: 400;">Há quatro anos, a gente sentou [em uma lanchonete] no Grajaú e rascunhamos as primeiras ideias de “Kauira dorme”. O sistema tenta te convencer a sobreviver e a se encaixar [no mundo] da forma que você conseguir. E às vezes você não tem fôlego pra dar uma parada e pensar no que pode ou não pode fazer. Há certa pressa por se identificar, encontrar um trampo, descolar uma grana, comprar um carro, se dar um nome, entende?</span></p>
-<blockquote><p><strong>A gente quis falar sobre o processo de descoberta da vocação nas periferias. Que sonho é esse de querer fazer um bagulho que te inspira? Quem sou eu? Essa parada de “possibilidade” é muito louco pra quem é da quebrada. </strong><strong>Será que tenho permissão pra chegar e escrever minhas ideias, de desenhar uns bagulhos da hora? </strong></p></blockquote>
-<p>Essa pressão que o sistema exerce, sobretudo na quebrada, tentamos trazer narrativamente em “Kauira”. A gente quis contar a nossa história, em certo sentido, sobre esse processo de descoberta da vocação num lugar que às vezes não quer te dizer qual é.</p>
-<figure id="attachment_7476" style="width: 1200px" class="wp-caption aligncenter"><img class="size-full wp-image-7476" src="https://www.agenciamural.org.br/wp-content/uploads/2019/04/kauira_dorme-1.jpg" alt="" width="1200" height="834" srcset="https://www.agenciamural.org.br/wp-content/uploads/2019/04/kauira_dorme-1.jpg 1200w, https://www.agenciamural.org.br/wp-content/uploads/2019/04/kauira_dorme-1-300x209.jpg 300w, https://www.agenciamural.org.br/wp-content/uploads/2019/04/kauira_dorme-1-768x534.jpg 768w, https://www.agenciamural.org.br/wp-content/uploads/2019/04/kauira_dorme-1-1024x712.jpg 1024w" sizes="(max-width: 1200px) 100vw, 1200px" /><figcaption class="wp-caption-text">Quadrinho traz cotidiano da periferia (Reprodução)</figcaption></figure>
-<p><b>Como vocês veem o cenário de quadrinhos nas periferias de São Paulo, em especial na zona sul?</b><br />
-<span style="font-weight: 400;">Da zona sul, só conhecemos o “Desterro”, do Ferréz e do [Alexandre] De Maio. Mas vale dizer que há grandes chances de começar um movimento de quadrinhos dentro das quebradas por causa do </span><a href="https://perifacon.com/"><span style="font-weight: 400;">PerifaCon</span></a><span style="font-weight: 400;">. Foi um evento muito importante para o nerd [periférico] que estava preso dentro de casa. A quebrada começou a se reconhecer. Tem muita gente produzindo coisa boa. </span>O PerifaCon foi histórico<span style="font-weight: 400;">. Porque tem gente ali que não se reconhecia enquanto artista. Não dá pra saber, é claro, mas antes do PerifaCon podia haver gente desistindo dos próprios sonhos.</span></p>
-<p><b>Para a impressão de “Kauira dorme”, vocês utilizaram uma plataforma de financiamento coletivo, correto? </b><br />
-<span style="font-weight: 400;">Foi uma grande porta [para publicação]. É e foi uma possibilidade da gente não se vincular às demandas das grandes empresas, por exemplo, o que já seria difícil pela temática que abordamos nesse trampo. Fato é que a gente não teria imprimido os quadrinhos se as pessoas não tivessem acreditado no projeto.  As primeiras 400 cópias já acabaram. A partir de agora, a gente vai usar o </span><a href="https://www.catarse.me/KauiraDorme"><span style="font-weight: 400;">Catarse</span></a><span style="font-weight: 400;"> como uma lojinha do quadrinho, porque as pessoas estão procurando. Rolou um fervo no último mês.</span></p>
-<p><b>Até onde ‘Kauira’ chegou?</b><br />
-<span style="font-weight: 400;">O financiamento fez “Kauira” chegar a lugares que não chegaria por vias comuns. Chegou no Rio Grande do Norte, Rio Grande do Sul, Mato Grosso, Bahia, Paraná, Piauí, e para o pedreiro perto de casa. Pessoas que viram o trabalho e compraram a ideia. Vários amigos compraram, é claro, mas a maioria a gente nunca ouviu falar. Mas vale dizer que a gente não vai se limitar apenas à internet, até porque sabemos que essas plataformas são ainda barreira para muitas pessoas. Fazemos questão de ir aos eventos que rolarem nas quebradas para o trampo chegar às pessoas que a gente quer atingir.</span></p>
-<figure id="attachment_7477" style="width: 1200px" class="wp-caption aligncenter"><img class="size-full wp-image-7477" src="https://www.agenciamural.org.br/wp-content/uploads/2019/04/kauira_dorme-3.jpg" alt="" width="1200" height="825" srcset="https://www.agenciamural.org.br/wp-content/uploads/2019/04/kauira_dorme-3.jpg 1200w, https://www.agenciamural.org.br/wp-content/uploads/2019/04/kauira_dorme-3-300x206.jpg 300w, https://www.agenciamural.org.br/wp-content/uploads/2019/04/kauira_dorme-3-768x528.jpg 768w, https://www.agenciamural.org.br/wp-content/uploads/2019/04/kauira_dorme-3-1024x704.jpg 1024w" sizes="(max-width: 1200px) 100vw, 1200px" /><figcaption class="wp-caption-text">Reino imaginário de Itapera (Reprodução)</figcaption></figure>
-<p><b>O que é periferia para vocês?</b><br />
-<span style="font-weight: 400;">Acho que [periferia] é a vida improvisando em sobreviver. É o arame no chinelo. É formar um time de várzea. É produzir um quadrinho independente. É um improviso por essa humanidade que grita toda hora. A cidade ainda não provê essa troca de vivências. É curioso, mas quando as pessoas têm acesso a um quadrinho como o nosso, por exemplo, já é uma vivência, é também uma forma de troca. A gente falou da nossa realidade para que outras pessoas, fora do nosso círculo social, também pudessem conhecê-la.</span></p>
-<p><b>O quadrinho faz referência à mitologia indígena, à periferia, mas também aos saraus, ao hip hop. Vocês inseriram versos do Emicida e Criolo, por exemplo. Qual a importância da cultura hip hop e dos saraus na vida de vocês e nessa obra?</b><br />
-<span style="font-weight: 400;">As mixtapes dos anos 1990 sempre tinham faixas pra alguém mandar aquele “salve”. E a gente se questionava: “Como podemos mandar um salve nas páginas da ‘Kauira’?”. Decidimos mandar salve nas paredes. Então você vê alguns desses salves para vários grafiteiros lá da região, principalmente do Capão Redondo, e citamos projetos da periferia lá do nosso bairro, como o </span><a href="http://cooperifa.com.br/"><span style="font-weight: 400;">Cooperifa</span></a><span style="font-weight: 400;">, o sarau </span><a href="https://www.facebook.com/VersoEmVersos/"><span style="font-weight: 400;">Verso em Versos</span></a><span style="font-weight: 400;">, sarau </span><a href="https://www.facebook.com/sobrenomeliberdad/"><span style="font-weight: 400;">Sobrenome Liberdade</span></a><span style="font-weight: 400;">. Foi nosso modo de homenagear todos esses movimentos. E para ser bem pretensioso, quisemos fazer uma “mixtape em forma de quadrinhos”.</span></p>
-<figure id="attachment_7478" style="width: 1200px" class="wp-caption aligncenter"><img class="size-full wp-image-7478" src="https://www.agenciamural.org.br/wp-content/uploads/2019/04/kauira_dorme-5.jpg" alt="" width="1200" height="959" srcset="https://www.agenciamural.org.br/wp-content/uploads/2019/04/kauira_dorme-5.jpg 1200w, https://www.agenciamural.org.br/wp-content/uploads/2019/04/kauira_dorme-5-300x240.jpg 300w, https://www.agenciamural.org.br/wp-content/uploads/2019/04/kauira_dorme-5-768x614.jpg 768w, https://www.agenciamural.org.br/wp-content/uploads/2019/04/kauira_dorme-5-1024x818.jpg 1024w" sizes="(max-width: 1200px) 100vw, 1200px" /><figcaption class="wp-caption-text">&#8220;Kauira Dorme&#8221; foi lançado na Perifacon (Reprodução)</figcaption></figure>
-<p><b>E quanto ao Emicida?</b><br />
-<span style="font-weight: 400;">Quanto ao Emicida, o disco de 2013, </span><a href="https://www.youtube.com/watch?v=pHNaBmIBQF0"><span style="font-weight: 400;">“O glorioso retorno de quem nunca esteve aqui”</span></a><span style="font-weight: 400;">, foi um impacto nas nossas vidas. Um ano depois do lançamento desse disco, a gente estava escrevendo o quadrinho. O Emicida fala: “Você é o único representante vivo do seu sonho na face da Terra”. E a história de Kauira é bem isso. Aliás, a gente quer entregar esse quadrinho para o Emicida e para o Criolo ainda.</span></p>
-<p><b>Vocês encontraram suas vocações ou ainda estão procurando, como a Kauira?</b><br />
-<span style="font-weight: 400;">Acho que o quadrinho fez a gente pensar nisso. Vocação é tudo aquilo que te causa harmonia, que te faz ter a sensação de harmonia. Sentimos que nossa vocação é contar histórias, independente do meio. E quadrinho nós sempre vamos produzir. Depois de “Kauira”, é como se um bichinho tivesse mordido a gente.</span></p>
+<p>Assim como meu professor, pensei: “Caramba, eu também iria”. Afinal, como deve ser incrível trabalhar com as figuras que fizeram parte da sua infância, que até hoje estampam HQs e encantam crianças com histórias sobre a Magali, Cebolinha e Cascão?</p>
+<p>Como, felizmente e por enquanto, continuo empregado, sempre tento compartilhar com amigos e colegas, sem a mesma sorte de receber salário todo fim de mês, oportunidades de emprego bacanas.</p>
+<p>Imaginei que eles, assim como escreveu meu professor, pudessem “ir” adiante nessa candidatura. Mas me enganei.</p>
+<p>Lucas, de Guaianases, no extremo leste, jamais teria chance; Luana, de Parelheiros, nas rebarbas da zona sul, tampouco; quem dirá Aline Kátia, moradora da Jova Rural, nos confins da zona norte de SP.</p>
+<p>Das 28 questões do formulário, a maioria delas obrigatória, uma deixa explícita a intenção da empresa de Maurício de Sousa em não aceitar candidatos moradores das periferias da capital paulista.</p>
+<p>Ela aparece no questionário após perguntas iniciais e básicas como nome, e-mail, RG e endereço.</p>
+<p>Em caixa alta, e sem nenhum pudor aparente, o anúncio é feito:</p>
+<figure id="attachment_7406" style="width: 1041px" class="wp-caption aligncenter"><img class="size-full wp-image-7406" src="https://www.agenciamural.org.br/wp-content/uploads/2019/04/MSP.jpg" alt="" width="1041" height="619" srcset="https://www.agenciamural.org.br/wp-content/uploads/2019/04/MSP.jpg 1041w, https://www.agenciamural.org.br/wp-content/uploads/2019/04/MSP-300x178.jpg 300w, https://www.agenciamural.org.br/wp-content/uploads/2019/04/MSP-768x457.jpg 768w, https://www.agenciamural.org.br/wp-content/uploads/2019/04/MSP-1024x609.jpg 1024w" sizes="(max-width: 1041px) 100vw, 1041px" /><figcaption class="wp-caption-text">Imagem do “Questionário de Pré Seleção — Auxiliar de Comunicação — MSP”</figcaption></figure>
+<p>O asterisco dá ao candidato a “chance” de indicar se ele gasta 30 minutos a 2h ou mais para chegar à MSP. Quanto pior o acesso, menor será a chance.</p>
+<p>Talvez a empresa de Maurício de Sousa não saiba, mas o<a href="https://32xsp.org.br/2019/02/20/morador-da-zona-leste-e-o-que-mais-sofre-com-distancia-ate-o-trabalho/"> morador da zona leste de SP é o que mais sofre com distância até o trabalho</a>.</p>
+<p>Ou, talvez por saber, prefira não “correr o risco” de ter um funcionário que chegue atrasado por causa do trânsito.</p>
+<p>Em fevereiro deste ano, Cleber Arruda e Lucas Veloso, repórteres da <b>Agência Mural</b>, publicaram esta notícia no<a href="https://32xsp.org.br/"> <b>32xSP</b></a>, site que cobre regionalmente a cidade a partir das 32 subprefeituras, no qual sou editor.</p>
+<p>A pesquisa<a href="https://www.cidadessustentaveis.org.br/arquivos/viver_trabalho_renda_2019_apresentacao.pdf"> “Trabalho e renda”</a>, da Rede Nossa São Paulo e Ibope, mostra que a população da região leste gasta, diariamente, 1h50 para se deslocar até o emprego. A média do município é de 1h43.</p>
+<p>Certamente um tempo muito alto para o RH da empresa de Maurício de Sousa.</p>
+<p>Esse índice, porém, é muito maior quando tratamos especificamente sobre mobilidade na cidade.</p>
+<p>Na zona sul,<a href="https://32xsp.org.br/2018/09/25/moradores-da-zona-sul-perdem-21-dias-por-ano-no-transporte-publico/"> moradores perdem 21 dias por ano no transporte público</a>: são 2h05 diárias para realizar a atividade principal como ir ao trabalho ou à faculdade, por exemplo.</p>
+<p>Quais seriam então as justificativas da empresa? Economia no vale-transporte do funcionário? Talvez menor chance de mais horas extras de trabalho?</p>
+<p>Mas a mobilidade não é fator isolado na pré-seleção para ingressar na empresa do cartunista.</p>
+<p>Para a vaga de auxiliar de comunicação, o candidato precisa indicar o nível do idioma inglês (de básico a fluente) e dizer se ainda possui conhecimento noutra língua.</p>
+<p>Há dois anos, após me candidatar para uma vaga num importante instituto de educação do país e sequer ser chamado para a entrevista pessoal por afirmar não falar inglês fluentemente, escrevi o texto<a href="https://medium.com/@vagnerdealencar/como-posso-ser-fluente-em-ingl%C3%AAs-se-nem-minha-vida-est%C3%A1-6c3808ec5486"> “Como posso ser fluente em inglês se nem minha vida é?”</a>.</p>
+<p>Recebi dezenas de mensagens acaloradas de pessoas agradecendo a publicação. Expondo a autocobrança e um fracasso que não são delas, que não é nosso.</p>
+<p>Em 2017, a Turma da Mônica recebeu a Milena, a primeira personagem feminina negra de Mauricio de Sousa. Ação de diversidade insuficiente e aparentemente só no papel, já que a população afastada do escritório do cartunista, geralmente preta e periférica, é impedida de fazer parte do quadro de funcionários por causa do CEP.</p>
+<p><img class="aligncenter size-full wp-image-7407" src="https://www.agenciamural.org.br/wp-content/uploads/2019/04/mapa-11.png" alt="" width="775" height="643" srcset="https://www.agenciamural.org.br/wp-content/uploads/2019/04/mapa-11.png 775w, https://www.agenciamural.org.br/wp-content/uploads/2019/04/mapa-11-300x249.png 300w, https://www.agenciamural.org.br/wp-content/uploads/2019/04/mapa-11-768x637.png 768w" sizes="(max-width: 775px) 100vw, 775px" /></p>
+<p>Dois anos antes, uma pesquisa da Secretaria Municipal de Promoção e Igualdade Racial mostrou que a<a href="https://ceert.org.br/noticias/dados-estatisticas/9503/levantamento-mostra-distribuicao-da-populacao-negra-em-sao-paulo"> população negra está concentrada na periferia de São Paulo</a>.</p>
+<p>As regiões sul e leste encabeçam o ranking dos distritos com a maior quantidade de afrodescendentes.</p>
+<p>Em Parelheiros, na zona sul, a taxa supera 57%, enquanto Pinheiros, na rica zona oeste onde também fica o escritório do famoso quadrinista, registra apenas 7,3% — uma diferença de quase oito vezes.</p>
+<p>Não faço ideia de quantas pessoas pretas trabalhem na MSP, talvez a tia da copa ou o moço da limpeza, como geralmente costumamos ver em grande parte das empresas. Espero que estejam presentes em outros diferentes cargos, embora essa pré-seleção pareça não mostrar tal diversidade.</p>
+<p>Conversando sobre esse processo seletivo com uma amiga moradora da Cidade Tiradentes, no extremo leste da cidade, onde há a menor oferta de emprego de SP, partilhamos de um sentimento em comum.</p>
+<p>Sentimos como se estivessem o tempo todo nos impondo algum limite que parece apenas uma fronteira geográfica, mas não é.</p>
+<p>“Você só pode ir e ser até aqui. Daqui pra frente não é espaço pra você.”</p>
+<p><strong>PERGUNTA FOI RETIRADA, DIZ MSP</strong></p>
+<p>A assessoria da Mauricio de Sousa Produções entrou em contato com a <strong>Agência Mural</strong> e afirma que retirou do questionário restrições sobre a distância da casa dos candidatos.</p>
+<p>&#8220;Referente a publicação no site <span class="m_5114610140635523367m_-5533004794955976407m-6133722953335542701gmail-m-6705459969691486595msohyperlink"><a href="https://www.agenciamural.org.br/ha-vagas-na-turma-da-monica-mas-nao-para-candidatos-das-periferias-de-sp/#disqus_thread" target="_blank" rel="noopener noreferrer">https://www.agenciamural.org.br/ha-vagas-na-turma-da-monica-mas-nao-para-candidatos-das-periferias-de-sp/#disqus_thread</a>, esclarecemos que a Mauricio de Sousa Produções não faz restrições em relação ao endereço de moradia de seus candidatos. Sendo assim, para que não gere dúvidas, optamos por retirar este item do questionário citado.”</span></p>
+<p><a href="https://www.agenciamural.org.br/author/vagneralencar/"><strong>Vagner de Alencar</strong></a> é correspondente de Paraisópolis e editor do<strong><a href="http://32xsp.org.br/"> 32xSP</a></strong><br />
+<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="146275737a7166547573717a777d7579616675783a7b66733a7666">[email&#160;protected]</a></p>
 <p>Apoie o jornalismo da Mural e ajude a desconstruir os estereótipos sobre as nossas quebradas. <strong><a href="http://ww.catarse.me/periferias">Saiba como</a></strong></p>
-<!-- AddThis Advanced Settings above via filter on the_content --><!-- AddThis Advanced Settings below via filter on the_content --><!-- AddThis Advanced Settings generic via filter on the_content --><!-- AddThis Share Buttons above via filter on the_content --><!-- AddThis Share Buttons below via filter on the_content --><div class="at-below-post addthis_tool" data-url="https://www.agenciamural.org.br/livro-kauira-dorme-entrelaca-mundo-mitico-e-a-periferia-de-sao-paulo/"></div><!-- AddThis Share Buttons generic via filter on the_content -->            <div class="post-assinatura">
+<!-- AddThis Advanced Settings above via filter on the_content --><!-- AddThis Advanced Settings below via filter on the_content --><!-- AddThis Advanced Settings generic via filter on the_content --><!-- AddThis Share Buttons above via filter on the_content --><!-- AddThis Share Buttons below via filter on the_content --><div class="at-below-post addthis_tool" data-url="https://www.agenciamural.org.br/ha-vagas-na-turma-da-monica-mas-nao-para-candidatos-das-periferias-de-sp/"></div><!-- AddThis Share Buttons generic via filter on the_content -->            <div class="post-assinatura">
                 <div class="row align-items-center">
                     <div class="col-lg-3 col-md-12">
-                        <div class="post-assinatura__foto" style="background: url('https://www.agenciamural.org.br/wp-content/uploads/2018/07/RomuloCabrera-150x150.jpg')"></div>
+                        <div class="post-assinatura__foto" style="background: url('https://www.agenciamural.org.br/wp-content/uploads/2018/07/VagnerdeAlencar-150x150.jpg')"></div>
                     </div>
 
                     <div class="col-lg-9 col-md-12">
                         <div class="post-assinatura__descricao">
                             <div class="bio">
-                                <h3><a href="https://www.agenciamural.org.br/author/romulo/">Rômulo Cabrera</a></h3>
-                                <p>Jornalista, correspondente de Suzano desde 2018. É documentarista amador, "bicicleteiro" urbano, e sommelier de tubaína (não necessariamente nessa ordem).</p>
+                                <h3><a href="https://www.agenciamural.org.br/author/vagneralencar/">Vagner de Alencar</a></h3>
+                                <p>Jornalista e doutorando em Educação. É editor do 32xSP e correspondente de Paraisópolis desde 2010. É ariano, baiano de nascença, paulistano de coração e um apaixonado em escrever crônica. É autor do livro "Cidade do Paraíso - Há vida na maior favela de São Paulo".</p>
                             </div>
 
                             <div class="idioma-localizacao">
-                                <p>Suzano</p>
+                                <p>Paraisópolis, São Paulo</p>
                             </div>
 
                             <div class="post-assinatura__social">
                                 <ul>
-									                                        <a href="https://www.facebook.com/cabrera.romulo" target="_blank">
+									                                        <a href="https://www.facebook.com/vagnerdealencar" target="_blank">
                                             <li class="list-facebook"></li>
                                         </a>
 																		
-									                                        <a href="https://twitter.com/rcmedeiros_" target="_blank">
+									                                        <a href="https://twitter.com/vagnerdealencar" target="_blank">
                                             <li class="list-twitter"></li>
                                         </a>
 																		
+									                                        <a href="https://instagram.com/vagnerdealencar" target="_blank">
+                                            <li class="list-insta"></li>
+                                        </a>
 																		
-									                                        <a href="https://www.linkedin.com/in/r%C3%B4mulo-cabrera-012718149/" target="_blank">
+									                                        <a href="https://www.linkedin.com/in/vagner-de-alencar-9b007b23/" target="_blank">
                                             <li class="list-linkedin"></li>
                                         </a>
 																		
-									                                        <a href="/cdn-cgi/l/email-protection#15677a7860797a76747767706774557472707b767c7478606774793b7a67723b7767" target="_blank" title="romulocabrera@agenciamural.org.br">
+									                                        <a href="/cdn-cgi/l/email-protection#156374727b7067557472707b767c7478606774793b7a67723b7767" target="_blank" title="vagner@agenciamural.org.br">
                                             <li class="list-email"></li>
                                         </a>
 									                                </ul>
@@ -889,7 +895,7 @@ blockquote,.entry-meta,.entry-footer,.comment-list li .comment-meta .says,.comme
 		<div class="banner_post"><br><div class="codeneric_ultimate_ads_manager_ad_wrapper"
                data-place-id="0"
                data-js="false"
-               data-id="7284">
+               data-id="5944">
                 </div></div>	
 	            <div class="mural-leia-tambem">
                 <h3>Leia também:</h3>
@@ -897,96 +903,96 @@ blockquote,.entry-meta,.entry-footer,.comment-list li .comment-meta .says,.comme
                     <div class="swiper-wrapper">
 						
                             <div class="swiper-slide">
-                                <a href="https://www.agenciamural.org.br/role-na-quebrada-12-dicas-de-eventos-para-a-semana-do-trabalhador/">
-                                    <div class="mural-card__image" style="background: url('https://www.agenciamural.org.br/wp-content/uploads/2019/05/Projeto-sindicato-300x200.jpg')">
+                                <a href="https://www.agenciamural.org.br/suzano-e-mais-do-que-as-palavras-massacre-e-tragedia/">
+                                    <div class="mural-card__image" style="background: url('https://www.agenciamural.org.br/wp-content/uploads/2019/04/suzano-romulo_cabrera-aniversario_suzano-5-300x200.jpg')">
                                     </div>
 
                                     <div class="mural-card__titulo">
-                                        <h4>Rolê na Quebrada: 12 dicas de eventos para a semana do trabalhador</h4>
+                                        <h4>Suzano é mais do que as palavras massacre e tragédia</h4>
                                     </div>
                                 </a>
                             </div>
 						
 						
                             <div class="swiper-slide">
-                                <a href="https://www.agenciamural.org.br/o-dia-do-trabalho-para-dez-trabalhadores-das-periferias/">
-                                    <div class="mural-card__image" style="background: url('https://www.agenciamural.org.br/wp-content/uploads/2019/04/TrabalhadoresSM10-300x200.jpg')">
+                                <a href="https://www.agenciamural.org.br/a-chuva-na-cantareira-e-os-tempos-em-que-corriamos-para-pegar-a-roupa-do-varal/">
+                                    <div class="mural-card__image" style="background: url('https://www.agenciamural.org.br/wp-content/uploads/2019/03/Bola-na-chuva-II-300x169.jpeg')">
                                     </div>
 
                                     <div class="mural-card__titulo">
-                                        <h4>O Dia do Trabalho para dez trabalhadores das periferias</h4>
+                                        <h4>A chuva na Cantareira e os tempos em que corríamos para pegar a roupa do varal</h4>
                                     </div>
                                 </a>
                             </div>
 						
 						
                             <div class="swiper-slide">
-                                <a href="https://www.agenciamural.org.br/role-na-quebrada-semana-tem-homenagem-a-tula-pilar-show-do-marcelo-d2-e-encontro-indigena/">
-                                    <div class="mural-card__image" style="background: url('https://www.agenciamural.org.br/wp-content/uploads/2019/04/15073376_1169771849726885_8602590919409792824_n-300x200.jpg')">
+                                <a href="https://www.agenciamural.org.br/por-que-fazemos-jornalismo-sobre-as-periferias/">
+                                    <div class="mural-card__image" style="background: url('https://www.agenciamural.org.br/wp-content/uploads/2019/02/Iza_ilustra_cortada1-300x225.png')">
                                     </div>
 
                                     <div class="mural-card__titulo">
-                                        <h4>Rolê na Quebrada: Semana tem homenagem à Tula Pilar, show do Marcelo D2 e encontro indígena</h4>
+                                        <h4>Por que fazemos jornalismo sobre as periferias</h4>
                                     </div>
                                 </a>
                             </div>
 						
 						
                             <div class="swiper-slide">
-                                <a href="https://www.agenciamural.org.br/emtu-aumenta-passagem-de-onibus-de-forma-desigual-na-grande-sp/">
-                                    <div class="mural-card__image" style="background: url('https://www.agenciamural.org.br/wp-content/uploads/2019/04/onibus_terminal-butanta_crédito_rômulo-cabrera-2-300x200.jpg')">
+                                <a href="https://www.agenciamural.org.br/jornalistas-criam-projeto-para-falar-quem-sao-os-presidenciaveis/">
+                                    <div class="mural-card__image" style="background: url('https://www.agenciamural.org.br/wp-content/uploads/2018/08/Logo-para-fundo-preto-1-1-e1535379595966-300x95.png')">
                                     </div>
 
                                     <div class="mural-card__titulo">
-                                        <h4>EMTU aumenta passagem de ônibus de forma desigual na Grande SP</h4>
+                                        <h4>Jornalistas criam projeto para falar quem são os presidenciáveis</h4>
                                     </div>
                                 </a>
                             </div>
 						
 						
                             <div class="swiper-slide">
-                                <a href="https://www.agenciamural.org.br/role-na-quebrada-churros-em-santo-andre-e-muito-mais/">
-                                    <div class="mural-card__image" style="background: url('https://www.agenciamural.org.br/wp-content/uploads/2019/04/WhatsApp-Image-2019-04-17-at-15.22.571-300x200.jpeg')">
+                                <a href="https://www.agenciamural.org.br/as-eleicoes-para-deputado-no-brasil/">
+                                    <div class="mural-card__image" style="background: url('https://www.agenciamural.org.br/wp-content/uploads/2018/08/Câmara-dos-Deputados-Plenário-Luís-Macedo-Câmara-dos-Deputados-300x197.jpg')">
                                     </div>
 
                                     <div class="mural-card__titulo">
-                                        <h4>Rolê na quebrada: churros em Santo André, teatro e hip hop pra curtir no feriado</h4>
+                                        <h4>Novos nomes desafiam clãs políticos nas eleições para deputado no Brasil</h4>
                                     </div>
                                 </a>
                             </div>
 						
 						
                             <div class="swiper-slide">
-                                <a href="https://www.agenciamural.org.br/mulheres-grafiteiras-conquistam-espaco-nos-muros-de-sp/">
-                                    <div class="mural-card__image" style="background: url('https://www.agenciamural.org.br/wp-content/uploads/2019/04/Índia-grafitando-o-elo-da-maternidade_-300x218.jpg')">
+                                <a href="https://www.agenciamural.org.br/no-dia-dos-pais-o-jeito-de-um-caminhoneiro-mestre-de-kung-fu-e-talvez-bandeirinha/">
+                                    <div class="mural-card__image" style="background: url('https://www.agenciamural.org.br/wp-content/uploads/2018/08/IMG_20180812_110836-300x174.jpg')">
                                     </div>
 
                                     <div class="mural-card__titulo">
-                                        <h4>Mulheres grafiteiras conquistam espaço nos muros de SP</h4>
+                                        <h4>No Dia dos Pais, o jeito de um caminhoneiro, mestre de kung fu e (talvez) bandeirinha</h4>
                                     </div>
                                 </a>
                             </div>
 						
 						
                             <div class="swiper-slide">
-                                <a href="https://www.agenciamural.org.br/tula-pilar-resistencia/">
-                                    <div class="mural-card__image" style="background: url('https://www.agenciamural.org.br/wp-content/uploads/2019/04/Tula-Pilar2-300x175.jpg')">
+                                <a href="https://www.agenciamural.org.br/dia-do-amigo-e-as-amizades-que-surgem-no-onibus/">
+                                    <div class="mural-card__image" style="background: url('https://www.agenciamural.org.br/wp-content/uploads/2018/07/No-ônibus-com-grupo-de-jovens-rumo-ao-Dia-Nacional-da-Juventude-em-10-de-novembro-de-2002-1-300x192.jpg')">
                                     </div>
 
                                     <div class="mural-card__titulo">
-                                        <h4>Tula Pilar &#8211; Resistência</h4>
+                                        <h4>Dia do Amigo e as amizades que surgem nos ônibus</h4>
                                     </div>
                                 </a>
                             </div>
 						
 						
                             <div class="swiper-slide">
-                                <a href="https://www.agenciamural.org.br/morre-a-poeta-tula-pilar-seguidora-de-carolina-maria-de-jesus/">
-                                    <div class="mural-card__image" style="background: url('https://www.agenciamural.org.br/wp-content/uploads/2019/04/Tula-Pilar1-300x200.jpg')">
+                                <a href="https://www.agenciamural.org.br/reporteres-falam-sobre-a-importancia-de-humanizar-historias/">
+                                    <div class="mural-card__image" style="background: url('https://www.agenciamural.org.br/wp-content/uploads/2018/07/Abraji-Alice-Vergueiro-1-300x200.jpg')">
                                     </div>
 
                                     <div class="mural-card__titulo">
-                                        <h4>Morre a poeta Tula Pilar, seguidora de Carolina Maria de Jesus</h4>
+                                        <h4>Repórteres falam sobre a importância de humanizar histórias</h4>
                                     </div>
                                 </a>
                             </div>
@@ -1007,7 +1013,7 @@ blockquote,.entry-meta,.entry-footer,.comment-list li .comment-meta .says,.comme
 
 	<div class="entry-footer-right">
 
-		<span class="edit-link"><a class="post-edit-link" href="https://www.agenciamural.org.br/wp-admin/post.php?post=7318&#038;action=edit">Editar</a></span>
+		<span class="edit-link"><a class="post-edit-link" href="https://www.agenciamural.org.br/wp-admin/post.php?post=1911&#038;action=edit">Editar</a></span>
 	</div>
 
 	
@@ -1015,7 +1021,9 @@ blockquote,.entry-meta,.entry-footer,.comment-list li .comment-meta .says,.comme
 		
 			<span class="cat-links">
 
-				Categoria: <ul class="post-categories"><li><a href="https://www.agenciamural.org.br/category/regiao/">Região SP</a></li></ul>
+				Categoria: <ul class="post-categories"><li><a href="https://www.agenciamural.org.br/category/assunto/direitos-humanos/">Direitos Humanos</a></li><li class="have-text"><div class="cat-descricao">
+                    Texto sobre algum tema específico em que há um posicionamento do autor com base em dados e na própria vivência do muralista.
+                </div><a href="https://www.agenciamural.org.br/category/opiniao/">Opinião</a></li></ul>
 			</span>
 
 		
@@ -1023,7 +1031,7 @@ blockquote,.entry-meta,.entry-footer,.comment-list li .comment-meta .says,.comme
 		
 			<span class="tags-links">
 
-				Tags: <a href="https://www.agenciamural.org.br/tag/grande-sao-paulo/" rel="tag">Grande São Paulo</a>, <a href="https://www.agenciamural.org.br/tag/taboao-da-serra/" rel="tag">Taboão da Serra</a>
+				Tags: <a href="https://www.agenciamural.org.br/tag/abraji/" rel="tag">Abraji</a>, <a href="https://www.agenciamural.org.br/tag/dados/" rel="tag">dados</a>, <a href="https://www.agenciamural.org.br/tag/humanizacao/" rel="tag">humanização</a>, <a href="https://www.agenciamural.org.br/tag/jornalismo/" rel="tag">Jornalismo</a>, <a href="https://www.agenciamural.org.br/tag/mulheres/" rel="tag">mulheres</a>, <a href="https://www.agenciamural.org.br/tag/violencia-contra-a-mulher/" rel="tag">violência contra a mulher</a>
 			</span>
 
 		
@@ -1036,7 +1044,7 @@ blockquote,.entry-meta,.entry-footer,.comment-list li .comment-meta .says,.comme
 		
 	<nav class="navigation post-navigation" role="navigation">
 		<h2 class="screen-reader-text">Navegação de Post</h2>
-		<div class="nav-links"><div class="nav-previous"><a href="https://www.agenciamural.org.br/role-na-quebrada-semana-tem-cinema-teatro-e-brechos-pelas-periferias/" rel="prev">&larr; Rolê na Quebrada: semana tem cinema, teatro e brechós pelas periferias</a></div><div class="nav-next"><a href="https://www.agenciamural.org.br/tula-pilar-resistencia/" rel="next">Tula Pilar &#8211; Resistência &rarr;</a></div></div>
+		<div class="nav-links"><div class="nav-previous"><a href="https://www.agenciamural.org.br/habitacao-no-grajau-ocupacao-com-4-mil-familias-tem-crianca-poetisa-e-curso-para-mulheres/" rel="prev">&larr; Ocupação com 4 mil famílias tem criança poetisa e curso para mulheres</a></div><div class="nav-next"><a href="https://www.agenciamural.org.br/brecho-original-favela-quer-incluir-negros-na-moda/" rel="next">Brechó Original Favela quer incluir negros na moda &rarr;</a></div></div>
 	</nav>
 		
 	
@@ -1059,7 +1067,7 @@ blockquote,.entry-meta,.entry-footer,.comment-list li .comment-meta .says,.comme
 	
 		<div class="footer-widget">
 
-			<aside id="wpcw_social-4" class="widget wpcw-widgets wpcw-widget-social"><h4 class="widget-title">Siga-nos</h4><ul><li class="no-label"><a href="https://www.facebook.com/agenciamural" target="_blank" title="Visit Agência Mural on Facebook"><span class="fab fa-2x fa-facebook"></span></a></li><li class="no-label"><a href="https://twitter.com/agmural" target="_blank" title="Visit Agência Mural on Twitter"><span class="fab fa-2x fa-twitter"></span></a></li><li class="no-label"><a href="https://www.instagram.com/agenciamural" target="_blank" title="Visit Agência Mural on Instagram"><span class="fab fa-2x fa-instagram"></span></a></li><li class="no-label"><a href="https://plus.google.com/106154017637629574308" target="_blank" title="Visit Agência Mural on Google+"><span class="fab fa-2x fa-google-plus"></span></a></li><li class="no-label"><a href="https://www.linkedin.com/company/ag%C3%AAncia-mural-de-jornalismo-das-periferias/" target="_blank" title="Visit Agência Mural on LinkedIn"><span class="fab fa-2x fa-linkedin"></span></a></li><li class="no-label"><a href="http://www.agenciamural.org.br/feed/" target="_blank" title="Visit Agência Mural on Feed RSS"><span class="fas fa-2x fa-rss"></span></a></li><li class="no-label"><a href="https://soundcloud.com/mural" target="_blank" title="Visit Agência Mural on SoundCloud"><span class="fab fa-2x fa-soundcloud"></span></a></li><li class="no-label"><a href="https://www.flickr.com/photos/muralbrasil/" target="_blank" title="Visit Agência Mural on Flickr"><span class="fab fa-2x fa-flickr"></span></a></li></ul><a class="post-edit-link" data-widget-id="wpcw_social-4" href="https://www.agenciamural.org.br/wp-admin/customize.php?url=https%3A%2F%2Fwww.agenciamural.org.br%2Flivro-kauira-dorme-entrelaca-mundo-mitico-e-a-periferia-de-sao-paulo%2F&#038;autofocus%5Bsection%5D=sidebar-widgets-footer-1&#038;autofocus%5Bcontrol%5D=widget_wpcw_social%5B4%5D">Editar</a></aside><aside id="nav_menu-4" class="widget widget_nav_menu"><h4 class="widget-title">CREDIBILIDADE</h4><div class="menu-credibilidade-container"><ul id="menu-credibilidade" class="menu"><li id="menu-item-3238" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3238"><a href="https://www.agenciamural.org.br/credibilidade/declaracao-de-diversidade-de-vozes/">Declaração de diversidade de vozes</a></li>
+			<aside id="wpcw_social-4" class="widget wpcw-widgets wpcw-widget-social"><h4 class="widget-title">Siga-nos</h4><ul><li class="no-label"><a href="https://www.facebook.com/agenciamural" target="_blank" title="Visit Agência Mural on Facebook"><span class="fab fa-2x fa-facebook"></span></a></li><li class="no-label"><a href="https://twitter.com/agmural" target="_blank" title="Visit Agência Mural on Twitter"><span class="fab fa-2x fa-twitter"></span></a></li><li class="no-label"><a href="https://www.instagram.com/agenciamural" target="_blank" title="Visit Agência Mural on Instagram"><span class="fab fa-2x fa-instagram"></span></a></li><li class="no-label"><a href="https://plus.google.com/106154017637629574308" target="_blank" title="Visit Agência Mural on Google+"><span class="fab fa-2x fa-google-plus"></span></a></li><li class="no-label"><a href="https://www.linkedin.com/company/ag%C3%AAncia-mural-de-jornalismo-das-periferias/" target="_blank" title="Visit Agência Mural on LinkedIn"><span class="fab fa-2x fa-linkedin"></span></a></li><li class="no-label"><a href="http://www.agenciamural.org.br/feed/" target="_blank" title="Visit Agência Mural on Feed RSS"><span class="fas fa-2x fa-rss"></span></a></li><li class="no-label"><a href="https://soundcloud.com/mural" target="_blank" title="Visit Agência Mural on SoundCloud"><span class="fab fa-2x fa-soundcloud"></span></a></li><li class="no-label"><a href="https://www.flickr.com/photos/muralbrasil/" target="_blank" title="Visit Agência Mural on Flickr"><span class="fab fa-2x fa-flickr"></span></a></li></ul><a class="post-edit-link" data-widget-id="wpcw_social-4" href="https://www.agenciamural.org.br/wp-admin/customize.php?url=https%3A%2F%2Fwww.agenciamural.org.br%2Fha-vagas-na-turma-da-monica-mas-nao-para-candidatos-das-periferias-de-sp%2F&#038;autofocus%5Bsection%5D=sidebar-widgets-footer-1&#038;autofocus%5Bcontrol%5D=widget_wpcw_social%5B4%5D">Editar</a></aside><aside id="nav_menu-4" class="widget widget_nav_menu"><h4 class="widget-title">CREDIBILIDADE</h4><div class="menu-credibilidade-container"><ul id="menu-credibilidade" class="menu"><li id="menu-item-3238" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3238"><a href="https://www.agenciamural.org.br/credibilidade/declaracao-de-diversidade-de-vozes/">Declaração de diversidade de vozes</a></li>
 <li id="menu-item-3232" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3232"><a href="https://www.agenciamural.org.br/credibilidade/politica-de-etica/">Política de ética</a></li>
 <li id="menu-item-3239" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3239"><a href="https://www.agenciamural.org.br/politica-e-pratica-de-correcoes/">Política e prática de correções</a></li>
 <li id="menu-item-3380" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3380"><a href="https://www.agenciamural.org.br/principios/">Princípios</a></li>
@@ -1069,7 +1077,7 @@ blockquote,.entry-meta,.entry-footer,.comment-list li .comment-meta .says,.comme
 	
 		<div class="footer-widget">
 
-			<aside id="wpcw_contact-4" class="widget wpcw-widgets wpcw-widget-contact"><h4 class="widget-title">Entre em contato</h4><ul><li class="has-label"><strong>E-mail</strong><br><div><a href="/cdn-cgi/l/email-protection#795f5a48494f42165f5a48484d425f5a4848494218155f5a48494c420a5f5a484940425f5a484848425f5a4f4d42181e1c5f5a484849421a1018140c0b5f5a404e42155f5a4d4f425f5a484848425f5a48484d421e5f5a4d4f421b0b">&#106;o&#114;&#110;al&#105;s&#109;&#111;&#64;age&#110;ciamur&#97;l&#46;&#111;&#114;g&#46;br</a></div></li><li class="has-label"><strong>Telefone</strong><br><div>+55 11 9 7591 5260</div></li></ul><a class="post-edit-link" data-widget-id="wpcw_contact-4" href="https://www.agenciamural.org.br/wp-admin/customize.php?url=https%3A%2F%2Fwww.agenciamural.org.br%2Flivro-kauira-dorme-entrelaca-mundo-mitico-e-a-periferia-de-sao-paulo%2F&#038;autofocus%5Bsection%5D=sidebar-widgets-footer-2&#038;autofocus%5Bcontrol%5D=widget_wpcw_contact%5B4%5D">Editar</a></aside>
+			<aside id="wpcw_contact-4" class="widget wpcw-widgets wpcw-widget-contact"><h4 class="widget-title">Entre em contato</h4><ul><li class="has-label"><strong>E-mail</strong><br><div><a href="/cdn-cgi/l/email-protection#8aaca9bbbabcb1e5aca9bbbbbeb1e4aca9b3bdb1aca9bbbab2b1e3aca9bbbbbfb1e7e5aca9bcbeb1ebaca9bbbab9b1aca9bbbabbb1aca9bbbbbab1e9e3ebaca9bbbab3b1aca9bbbbbdb1f8aca9b3bdb1e6a4e5aca9bbbbbeb1aca9bbbab9b1a4e8aca9bbbbbeb1">&#106;o&#114;n&#97;&#108;i&#115;mo&#64;a&#103;&#101;&#110;cia&#109;&#117;r&#97;l.o&#114;&#103;.b&#114;</a></div></li><li class="has-label"><strong>Telefone</strong><br><div>+55 11 9 7591 5260</div></li></ul><a class="post-edit-link" data-widget-id="wpcw_contact-4" href="https://www.agenciamural.org.br/wp-admin/customize.php?url=https%3A%2F%2Fwww.agenciamural.org.br%2Fha-vagas-na-turma-da-monica-mas-nao-para-candidatos-das-periferias-de-sp%2F&#038;autofocus%5Bsection%5D=sidebar-widgets-footer-2&#038;autofocus%5Bcontrol%5D=widget_wpcw_contact%5B4%5D">Editar</a></aside>
 		</div>
 
 	
@@ -1135,7 +1143,7 @@ var countVars = {"disqusShortname":"mural-local"};
 <script type='text/javascript' src='https://www.agenciamural.org.br/wp-content/plugins/disqus-comment-system/public/js/comment_count.js?ver=3.0.16'></script>
 <script type='text/javascript'>
 /* <![CDATA[ */
-var embedVars = {"disqusConfig":{"integration":"wordpress 3.0.16"},"disqusIdentifier":"7473 https:\/\/www.agenciamural.org.br\/?p=7473","disqusShortname":"mural-local","disqusTitle":"Livro \u2018Kauira dorme\u2019 entrela\u00e7a mundo m\u00edtico e a periferia de S\u00e3o Paulo","disqusUrl":"https:\/\/www.agenciamural.org.br\/livro-kauira-dorme-entrelaca-mundo-mitico-e-a-periferia-de-sao-paulo\/","postId":"7473"};
+var embedVars = {"disqusConfig":{"integration":"wordpress 3.0.16"},"disqusIdentifier":"7405 https:\/\/www.agenciamural.org.br\/?p=7405","disqusShortname":"mural-local","disqusTitle":"H\u00e1 vagas na \u2018Turma da M\u00f4nica\u2019. Mas n\u00e3o para candidatos das periferias de SP","disqusUrl":"https:\/\/www.agenciamural.org.br\/ha-vagas-na-turma-da-monica-mas-nao-para-candidatos-das-periferias-de-sp\/","postId":"7405"};
 /* ]]> */
 </script>
 <script type='text/javascript' src='https://www.agenciamural.org.br/wp-content/plugins/disqus-comment-system/public/js/comment_embed.js?ver=3.0.16'></script>
@@ -1147,7 +1155,7 @@ var embedVars = {"disqusConfig":{"integration":"wordpress 3.0.16"},"disqusIdenti
 <script type='text/javascript' src='https://www.agenciamural.org.br/wp-includes/js/wp-embed.min.js?ver=4.9.6'></script>
 <script type='text/javascript'>
 /* <![CDATA[ */
-var __CODENERIC_UAM_GLOBALS__ = {"ads":{"7284":{"image_ad_referral_url":"https:\/\/www.catarse.me\/periferias","image_ad_title":"","image_ad_target":"new_tab","image_ad_position":"center","image_ad_id":"7286","image_ad_uri":"https:\/\/www.agenciamural.org.br\/wp-content\/uploads\/2019\/04\/728-90-1.jpg","type":"image_ad","forms":["header"],"post_title":"Catarse 728&#215;90"}},"ajax_url":"https:\/\/www.agenciamural.org.br\/wp-admin\/admin-ajax.php"};
+var __CODENERIC_UAM_GLOBALS__ = {"ads":{"5944":{"image_ad_referral_url":"https:\/\/www.instagram.com\/agenciamural\/","image_ad_title":"@agenciamural","image_ad_target":"same","image_ad_position":"left","image_ad_id":"5945","image_ad_uri":"https:\/\/www.agenciamural.org.br\/wp-content\/uploads\/2019\/01\/01-728.jpg","type":"image_ad","forms":["header"],"post_title":"Instagram 728"}},"ajax_url":"https:\/\/www.agenciamural.org.br\/wp-admin\/admin-ajax.php"};
 /* ]]> */
 </script>
 <script type='text/javascript' src='https://www.agenciamural.org.br/wp-content/uploads/uam-pipe/public/js/public.bundle.base-2.2.0.min.js?ver=1'></script>
@@ -1199,7 +1207,7 @@ var __CODENERIC_UAM_GLOBALS__ = {"ads":{"7284":{"image_ad_referral_url":"https:\
 		<li id="wp-admin-bar-menus"><a class="ab-item" href="https://www.agenciamural.org.br/wp-admin/nav-menus.php">Menus</a>		</li>
 		<li id="wp-admin-bar-background" class="hide-if-customize"><a class="ab-item" href="https://www.agenciamural.org.br/wp-admin/themes.php?page=custom-background">Fundo</a>		</li>
 		<li id="wp-admin-bar-header" class="hide-if-customize"><a class="ab-item" href="https://www.agenciamural.org.br/wp-admin/themes.php?page=custom-header">Cabeçalho</a>		</li></ul></div>		</li>
-		<li id="wp-admin-bar-customize" class="hide-if-no-customize"><a class="ab-item" href="https://www.agenciamural.org.br/wp-admin/customize.php?url=https%3A%2F%2Fwww.agenciamural.org.br%2Flivro-kauira-dorme-entrelaca-mundo-mitico-e-a-periferia-de-sao-paulo%2F">Personalizar</a>		</li>
+		<li id="wp-admin-bar-customize" class="hide-if-no-customize"><a class="ab-item" href="https://www.agenciamural.org.br/wp-admin/customize.php?url=https%3A%2F%2Fwww.agenciamural.org.br%2Fha-vagas-na-turma-da-monica-mas-nao-para-candidatos-das-periferias-de-sp%2F">Personalizar</a>		</li>
 		<li id="wp-admin-bar-updates"><a class="ab-item" href="https://www.agenciamural.org.br/wp-admin/network/update-core.php" title="17 atualizações de plugin, 4 atualização de temas, Atualizações de tradução"><span class="ab-icon"></span><span class="ab-label">22</span><span class="screen-reader-text">17 atualizações de plugin, 4 atualização de temas, Atualizações de tradução</span></a>		</li>
 		<li id="wp-admin-bar-new-content" class="menupop"><a class="ab-item" aria-haspopup="true" href="https://www.agenciamural.org.br/wp-admin/post-new.php"><span class="ab-icon"></span><span class="ab-label">Novo</span></a><div class="ab-sub-wrapper"><ul id="wp-admin-bar-new-content-default" class="ab-submenu">
 		<li id="wp-admin-bar-new-post"><a class="ab-item" href="https://www.agenciamural.org.br/wp-admin/post-new.php">Post</a>		</li>
@@ -1210,7 +1218,7 @@ var __CODENERIC_UAM_GLOBALS__ = {"ads":{"7284":{"image_ad_referral_url":"https:\
 		<li id="wp-admin-bar-new-codeneric_ad_group"><a class="ab-item" href="https://www.agenciamural.org.br/wp-admin/post-new.php?post_type=codeneric_ad_group">Group</a>		</li>
 		<li id="wp-admin-bar-new-codeneric_ad_place"><a class="ab-item" href="https://www.agenciamural.org.br/wp-admin/post-new.php?post_type=codeneric_ad_place"> Place</a>		</li>
 		<li id="wp-admin-bar-new-user"><a class="ab-item" href="https://www.agenciamural.org.br/wp-admin/user-new.php">Usuário</a>		</li></ul></div>		</li>
-		<li id="wp-admin-bar-edit"><a class="ab-item" href="https://www.agenciamural.org.br/wp-admin/post.php?post=7473&#038;action=edit">Editar post</a>		</li>
+		<li id="wp-admin-bar-edit"><a class="ab-item" href="https://www.agenciamural.org.br/wp-admin/post.php?post=7405&#038;action=edit">Editar post</a>		</li>
 		<li id="wp-admin-bar-wpseo-menu" class="menupop"><a class="ab-item" aria-haspopup="true" href="https://www.agenciamural.org.br/wp-admin/admin.php?page=wpseo_dashboard"><div id="yoast-ab-icon" class="ab-item yoast-logo svg"><span class="screen-reader-text">SEO</span></div> <div class="wp-core-ui wp-ui-notification yoast-issue-counter"><span aria-hidden="true">3</span><span class="screen-reader-text">3 notificações</span></div></a><div class="ab-sub-wrapper"><ul id="wp-admin-bar-wpseo-menu-default" class="ab-submenu">
 		<li id="wp-admin-bar-wpseo-notifications"><a class="ab-item" href="https://www.agenciamural.org.br/wp-admin/admin.php?page=wpseo_dashboard">Notificações <div class="wp-core-ui wp-ui-notification yoast-issue-counter"><span aria-hidden="true">3</span><span class="screen-reader-text">3 notificações</span></div></a>		</li>
 		<li id="wp-admin-bar-wpseo-configuration-wizard"><a class="ab-item" href="https://www.agenciamural.org.br/wp-admin/admin.php?page=wpseo_configurator">Assistente de configuração</a>		</li>
@@ -1219,17 +1227,17 @@ var __CODENERIC_UAM_GLOBALS__ = {"ads":{"7284":{"image_ad_referral_url":"https:\
 		<li id="wp-admin-bar-wpseo-googleinsights"><a class="ab-item" href="https://www.google.com/trends/explore#q=" target="_blank">Google Trends</a>		</li>
 		<li id="wp-admin-bar-wpseo-wordtracker"><a class="ab-item" href="http://tools.seobook.com/keyword-tools/seobook/?keyword=" target="_blank">SEO Book</a>		</li></ul></div>		</li>
 		<li id="wp-admin-bar-wpseo-analysis" class="menupop"><div class="ab-item ab-empty-item" tabindex="0" aria-haspopup="true">Analisar esta página</div><div class="ab-sub-wrapper"><ul id="wp-admin-bar-wpseo-analysis-default" class="ab-submenu">
-		<li id="wp-admin-bar-wpseo-inlinks-ose"><a class="ab-item" href="//moz.com/researchtools/ose/links?site=https%3A%2F%2Fwww.agenciamural.org.br%2Flivro-kauira-dorme-entrelaca-mundo-mitico-e-a-periferia-de-sao-paulo%2F" target="_blank">Checar Links de Entrada (OSE)</a>		</li>
-		<li id="wp-admin-bar-wpseo-kwdensity"><a class="ab-item" href="http://www.zippy.co.uk/keyworddensity/index.php?url=https%3A%2F%2Fwww.agenciamural.org.br%2Flivro-kauira-dorme-entrelaca-mundo-mitico-e-a-periferia-de-sao-paulo%2F&#038;keyword=" target="_blank">Checar Densidade de Palavras Chave</a>		</li>
-		<li id="wp-admin-bar-wpseo-cache"><a class="ab-item" href="//webcache.googleusercontent.com/search?strip=1&#038;q=cache:https%3A%2F%2Fwww.agenciamural.org.br%2Flivro-kauira-dorme-entrelaca-mundo-mitico-e-a-periferia-de-sao-paulo%2F" target="_blank">Checar Cache do Google</a>		</li>
-		<li id="wp-admin-bar-wpseo-header"><a class="ab-item" href="//quixapp.com/headers/?r=https%3A%2F%2Fwww.agenciamural.org.br%2Flivro-kauira-dorme-entrelaca-mundo-mitico-e-a-periferia-de-sao-paulo%2F" target="_blank">Checar Cabeçalhos</a>		</li>
-		<li id="wp-admin-bar-wpseo-structureddata"><a class="ab-item" href="https://search.google.com/structured-data/testing-tool#url=https%3A%2F%2Fwww.agenciamural.org.br%2Flivro-kauira-dorme-entrelaca-mundo-mitico-e-a-periferia-de-sao-paulo%2F" target="_blank">Teste de dados estruturados no Google</a>		</li>
-		<li id="wp-admin-bar-wpseo-facebookdebug"><a class="ab-item" href="//developers.facebook.com/tools/debug/og/object?q=https%3A%2F%2Fwww.agenciamural.org.br%2Flivro-kauira-dorme-entrelaca-mundo-mitico-e-a-periferia-de-sao-paulo%2F" target="_blank">Facebook Debugger</a>		</li>
-		<li id="wp-admin-bar-wpseo-pinterestvalidator"><a class="ab-item" href="https://developers.pinterest.com/tools/url-debugger/?link=https%3A%2F%2Fwww.agenciamural.org.br%2Flivro-kauira-dorme-entrelaca-mundo-mitico-e-a-periferia-de-sao-paulo%2F" target="_blank">Validador Rich Pins do Pinterest</a>		</li>
-		<li id="wp-admin-bar-wpseo-htmlvalidation"><a class="ab-item" href="//validator.w3.org/check?uri=https%3A%2F%2Fwww.agenciamural.org.br%2Flivro-kauira-dorme-entrelaca-mundo-mitico-e-a-periferia-de-sao-paulo%2F" target="_blank">Validador HTML</a>		</li>
-		<li id="wp-admin-bar-wpseo-cssvalidation"><a class="ab-item" href="//jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fwww.agenciamural.org.br%2Flivro-kauira-dorme-entrelaca-mundo-mitico-e-a-periferia-de-sao-paulo%2F" target="_blank">Validador CSS</a>		</li>
-		<li id="wp-admin-bar-wpseo-pagespeed"><a class="ab-item" href="//developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fwww.agenciamural.org.br%2Flivro-kauira-dorme-entrelaca-mundo-mitico-e-a-periferia-de-sao-paulo%2F" target="_blank">Teste de Velocidade de Página do Google</a>		</li>
-		<li id="wp-admin-bar-wpseo-google-mobile-friendly"><a class="ab-item" href="https://www.google.com/webmasters/tools/mobile-friendly/?url=https%3A%2F%2Fwww.agenciamural.org.br%2Flivro-kauira-dorme-entrelaca-mundo-mitico-e-a-periferia-de-sao-paulo%2F" target="_blank">Teste de dispositivos móveis</a>		</li></ul></div>		</li>
+		<li id="wp-admin-bar-wpseo-inlinks-ose"><a class="ab-item" href="//moz.com/researchtools/ose/links?site=https%3A%2F%2Fwww.agenciamural.org.br%2Fha-vagas-na-turma-da-monica-mas-nao-para-candidatos-das-periferias-de-sp%2F" target="_blank">Checar Links de Entrada (OSE)</a>		</li>
+		<li id="wp-admin-bar-wpseo-kwdensity"><a class="ab-item" href="http://www.zippy.co.uk/keyworddensity/index.php?url=https%3A%2F%2Fwww.agenciamural.org.br%2Fha-vagas-na-turma-da-monica-mas-nao-para-candidatos-das-periferias-de-sp%2F&#038;keyword=" target="_blank">Checar Densidade de Palavras Chave</a>		</li>
+		<li id="wp-admin-bar-wpseo-cache"><a class="ab-item" href="//webcache.googleusercontent.com/search?strip=1&#038;q=cache:https%3A%2F%2Fwww.agenciamural.org.br%2Fha-vagas-na-turma-da-monica-mas-nao-para-candidatos-das-periferias-de-sp%2F" target="_blank">Checar Cache do Google</a>		</li>
+		<li id="wp-admin-bar-wpseo-header"><a class="ab-item" href="//quixapp.com/headers/?r=https%3A%2F%2Fwww.agenciamural.org.br%2Fha-vagas-na-turma-da-monica-mas-nao-para-candidatos-das-periferias-de-sp%2F" target="_blank">Checar Cabeçalhos</a>		</li>
+		<li id="wp-admin-bar-wpseo-structureddata"><a class="ab-item" href="https://search.google.com/structured-data/testing-tool#url=https%3A%2F%2Fwww.agenciamural.org.br%2Fha-vagas-na-turma-da-monica-mas-nao-para-candidatos-das-periferias-de-sp%2F" target="_blank">Teste de dados estruturados no Google</a>		</li>
+		<li id="wp-admin-bar-wpseo-facebookdebug"><a class="ab-item" href="//developers.facebook.com/tools/debug/og/object?q=https%3A%2F%2Fwww.agenciamural.org.br%2Fha-vagas-na-turma-da-monica-mas-nao-para-candidatos-das-periferias-de-sp%2F" target="_blank">Facebook Debugger</a>		</li>
+		<li id="wp-admin-bar-wpseo-pinterestvalidator"><a class="ab-item" href="https://developers.pinterest.com/tools/url-debugger/?link=https%3A%2F%2Fwww.agenciamural.org.br%2Fha-vagas-na-turma-da-monica-mas-nao-para-candidatos-das-periferias-de-sp%2F" target="_blank">Validador Rich Pins do Pinterest</a>		</li>
+		<li id="wp-admin-bar-wpseo-htmlvalidation"><a class="ab-item" href="//validator.w3.org/check?uri=https%3A%2F%2Fwww.agenciamural.org.br%2Fha-vagas-na-turma-da-monica-mas-nao-para-candidatos-das-periferias-de-sp%2F" target="_blank">Validador HTML</a>		</li>
+		<li id="wp-admin-bar-wpseo-cssvalidation"><a class="ab-item" href="//jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fwww.agenciamural.org.br%2Fha-vagas-na-turma-da-monica-mas-nao-para-candidatos-das-periferias-de-sp%2F" target="_blank">Validador CSS</a>		</li>
+		<li id="wp-admin-bar-wpseo-pagespeed"><a class="ab-item" href="//developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fwww.agenciamural.org.br%2Fha-vagas-na-turma-da-monica-mas-nao-para-candidatos-das-periferias-de-sp%2F" target="_blank">Teste de Velocidade de Página do Google</a>		</li>
+		<li id="wp-admin-bar-wpseo-google-mobile-friendly"><a class="ab-item" href="https://www.google.com/webmasters/tools/mobile-friendly/?url=https%3A%2F%2Fwww.agenciamural.org.br%2Fha-vagas-na-turma-da-monica-mas-nao-para-candidatos-das-periferias-de-sp%2F" target="_blank">Teste de dispositivos móveis</a>		</li></ul></div>		</li>
 		<li id="wp-admin-bar-wpseo-settings" class="menupop"><div class="ab-item ab-empty-item" tabindex="0" aria-haspopup="true">Configurações de SEO</div><div class="ab-sub-wrapper"><ul id="wp-admin-bar-wpseo-settings-default" class="ab-submenu">
 		<li id="wp-admin-bar-wpseo-general"><a class="ab-item" href="https://www.agenciamural.org.br/wp-admin/admin.php?page=wpseo_dashboard">Geral</a>		</li>
 		<li id="wp-admin-bar-wpseo-titles"><a class="ab-item" href="https://www.agenciamural.org.br/wp-admin/admin.php?page=wpseo_titles">Search Appearance</a>		</li>
@@ -1237,7 +1245,7 @@ var __CODENERIC_UAM_GLOBALS__ = {"ads":{"7284":{"image_ad_referral_url":"https:\
 		<li id="wp-admin-bar-wpseo-social"><a class="ab-item" href="https://www.agenciamural.org.br/wp-admin/admin.php?page=wpseo_social">Social</a>		</li>
 		<li id="wp-admin-bar-wpseo-tools"><a class="ab-item" href="https://www.agenciamural.org.br/wp-admin/admin.php?page=wpseo_tools">Ferramentas</a>		</li>
 		<li id="wp-admin-bar-wpseo-licenses"><a class="ab-item" href="https://www.agenciamural.org.br/wp-admin/admin.php?page=wpseo_licenses">Premium</a>		</li></ul></div>		</li></ul></div>		</li>
-		<li id="wp-admin-bar-fl-builder-frontend-edit-link"><a class="ab-item" href="https://www.agenciamural.org.br/livro-kauira-dorme-entrelaca-mundo-mitico-e-a-periferia-de-sao-paulo/?fl_builder"><span class="ab-icon"></span>Beaver Builder <span class="fl-builder-admin-bar-status-dot" style="color:#d9d9d9; font-size:18px; line-height:1;">&bull;</span></a>		</li>
+		<li id="wp-admin-bar-fl-builder-frontend-edit-link"><a class="ab-item" href="https://www.agenciamural.org.br/ha-vagas-na-turma-da-monica-mas-nao-para-candidatos-das-periferias-de-sp/?fl_builder"><span class="ab-icon"></span>Beaver Builder <span class="fl-builder-admin-bar-status-dot" style="color:#d9d9d9; font-size:18px; line-height:1;">&bull;</span></a>		</li>
 		<li id="wp-admin-bar-disqus" class="menupop disqus-menu-bar"><a class="ab-item" aria-haspopup="true" href="https://www.agenciamural.org.br/wp-admin/admin.php?page=disqus"><span class="ab-icon"></span>Disqus</a><div class="ab-sub-wrapper"><ul id="wp-admin-bar-disqus-default" class="ab-submenu">
 		<li id="wp-admin-bar-disqus_moderate"><a class="ab-item" href="https://mural-local.disqus.com/admin/moderate/">Moderate</a>		</li>
 		<li id="wp-admin-bar-disqus_analytics"><a class="ab-item" href="https://mural-local.disqus.com/admin/analytics/comments/">Analytics</a>		</li>
